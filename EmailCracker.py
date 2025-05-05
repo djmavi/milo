@@ -58,7 +58,7 @@ try:
     logging.info("Logged in successfully.")
     
     from_addr = email_user
-    to_addr = "recipient_email@gmail.com"
+    to_addr = "tlz.sarina@gmail.com"
     subject = "Test Email"
     body = "This is a test email."
     msg = f"Subject: {subject}\n\n{body}"
